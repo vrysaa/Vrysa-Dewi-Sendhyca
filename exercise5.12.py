@@ -1,0 +1,1 @@
+#BAik pak, saya telah memeriksa kembali program-program yang dibuat pada bab ini dan memastikan penulisan pernyataan if sudah sesuai dengan aturan Python, seperti penggunaan tanda titik dua, indentasi 4 spasi, dan spasi pada operator.
